@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Amit Kumar👋
 
 <!--
 **itsaamyth/itsaamyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+I m a Web Developer who is passionate about making latest design websites majorly using language JavaScript along with some cool development softwares such as NodeJs, ExpressJs, React and MongoDB along with this i'm a B.tech holder in Information Technology and a day to day survivor in this sophisticated world.
+
+### How to reach me :
+instagram:its.aaymth 
+twitter:its.aaymth
+
+### Fun facts:
+I'm an Engineer 😄
+
+### I'm currently working on MERN stack.
+
