@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 I m a Web Developer who is passionate about making latest design websites majorly using language JavaScript along with some cool development softwares such as NodeJs, ExpressJs, React and MongoDB along with this i'm a B.tech holder in Information Technology and a day to day survivor in this sophisticated world.
 
 ### How to reach me :
-instagram:its.aaymth 
-twitter:its.aaymth
+###instagram:its.aaymth <br>
+###twitter:its.aaymth
 
 ### Fun facts:
 I'm an Engineer 😄
