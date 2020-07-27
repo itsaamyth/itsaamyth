@@ -53,11 +53,11 @@
 </details>
 <details>
   <summary>Connect with me </summary>
-   <li><a href="https://www.linkedin.com/in/amit-kumar-62068218b/?jobid=1234"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/linkedin.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/amit-kumar-62068218b/?jobid=1234"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/linkedin.png" width="40" /></a>
 <a href="https://github.com/itsaamyth/itsaamyth"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004785631911"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/facebook.png" width="40" /></a>
 <a href="mailto:amitk6228@gmail.com"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/gmail.png" width="40" /></a>
 <a href="https://twitter.com/itsaamyth"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/its.aamyth/"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/instagram.png" width="40" /></a></li>
+<a href="https://www.instagram.com/its.aamyth/"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/instagram.png" width="40" /></a>
 
 </details>
