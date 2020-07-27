@@ -34,7 +34,9 @@
     <li><a>Website Designing and Development of Anureza Power Projects Pvt.Ltd</a></li>
     <li>Website Designing and Development of My Resume at<a href="https://itsaamyth.github.io/Amitkumar/">Amit Kumar</a></li>
   </ul>
-  <summary>My Recent work 🤖</summary>
+</details>
+<details>
+  <summary>Currently working on ✍️</summary>
   <ul>
   <li>MERN Stack</li>
   <li>Python for Data Science</li>
