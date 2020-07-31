@@ -1,5 +1,5 @@
 <h1>Hey, I am <a href="https://www.linkedin.com/in/amit-kumar-62068218b/?jobid=1234">Amit Kumar</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img width="55%" height="50%" align="right" alt="Github" src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/fbavatar.png" />
+<img width="55%" height="40%" align="right" alt="Github" src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/fbavatar.png" />
 <h2> I am a Website Developer and Designer 💻 </h2>
 <details>
 <summary>Education 📚</summary>
