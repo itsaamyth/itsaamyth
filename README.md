@@ -67,7 +67,7 @@
 
 </details>
 
-<img alt="Amit's github stats" width=300 src="https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true"/>
-<img alt="Top Langs" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,glsl"/>
+<img alt="Amit's github stats" width=500 src="https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true"/>
+<img alt="Top Langs" width=500  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,glsl"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
