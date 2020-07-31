@@ -52,13 +52,13 @@
 <details>
   <summary>Contact 📞</summary>
   <ul>
-  <li>Mail me at 📧<a href="mailto: amitk6228@gmail.com">
+  <li>Mail me at <a href="mailto: amitk6228@gmail.com">
    amitk6228@gmail.com <br>
   </a></li>
 </ul>
 </details>
 <details>
-  <summary>Connect with me </summary>
+  <summary>Connect with me 📧</summary>
   <a href="https://www.linkedin.com/in/amit-kumar-62068218b/?jobid=1234"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/linkedin.png" width="40" /></a>
 <a href="https://github.com/itsaamyth/itsaamyth"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004785631911"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/facebook.png" width="40" /></a>
