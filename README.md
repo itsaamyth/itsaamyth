@@ -66,7 +66,7 @@
 <a href="https://www.instagram.com/its.aamyth/"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/instagram.png" width="40" /></a>
 
 </details>
-
+<h2>Github stats</h2>
 <img alt="Amit's github stats" width=500 src="https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true"/>
 <img alt="Top Langs" width=500  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,glsl"/>
 
