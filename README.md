@@ -19,7 +19,7 @@
 
 <details>
 <summary>Languages and Tools 👨‍🔧 </summary>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/><img src="https://img.icons8.com/fluent/48/000000/github.png"/><img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 </details>
 
 <details>
@@ -46,6 +46,7 @@
   <li>Python for Data Science</li>
   </ul>
 </details>
+![Amit's github stats](https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true)
 <h2>Get in touch </h2>
 <details>
   <summary>Contact: 📞</summary>
