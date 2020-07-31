@@ -10,13 +10,17 @@
 </details>
 
 <details>
-<summary>Area of Interests 👓 </summary>
+<summary>Skills 👓 </summary>
 <ul>
-  <li><a>Skills - Website Designing and Development, Database Management, Data Structures</a></li>
+  <li><a>Website Designing and Development, Machine Learning, Data Science, Database Management, Data Structures</a></li>
   <li><a> Tools - Python, C, Javascript, NodeJs, MongoDB, SocketIO, SQL, Microsoft Office, Bootstrap, html5-css3, jquery, Git </a></li>
 </ul>
 </details>
 
+<details>
+<summary>Languages and Tools 👨‍🔧 </summary>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</details>
 
 <details>
 	<summary>Experience  👨‍💻</summary>
