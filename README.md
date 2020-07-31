@@ -68,6 +68,6 @@
 </details>
 <h2>Github stats</h2>
 <img alt="Amit's github stats" width=500 src="https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true"/>
-<img alt="Top Langs" width=500  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,glsl"/>
+<img alt="Top Langs" width=500  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,glsl&show=python"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
