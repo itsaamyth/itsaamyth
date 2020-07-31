@@ -50,9 +50,9 @@
 
 <h2>Get in touch </h2>
 <details>
-  <summary>Contact: 📞</summary>
+  <summary>Contact 📞</summary>
   <ul>
-  <li>Mail me at <a href="mailto: amitk6228@gmail.com">
+  <li>Mail me at 📧<a href="mailto: amitk6228@gmail.com">
    amitk6228@gmail.com <br>
   </a></li>
 </ul>
