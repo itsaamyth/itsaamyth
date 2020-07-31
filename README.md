@@ -47,7 +47,7 @@
   </ul>
 </details>
 
-<img alt="Amit's github stats" src="(https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true)"/>
+<img alt="Amit's github stats" src="https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true"/>
 <h2>Get in touch </h2>
 <details>
   <summary>Contact: 📞</summary>
