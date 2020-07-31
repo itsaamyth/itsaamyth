@@ -1,4 +1,3 @@
-<script src="https://gist.github.com/avalanche123/981817.js"></script>
 <h1>Hey, I am <a href="https://www.linkedin.com/in/amit-kumar-62068218b/?jobid=1234">Amit Kumar</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img width="55%" height="40%" align="right" alt="Github" src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/fbavatar.png" />
 <h2> I am a Website Developer and Designer 💻 </h2>
@@ -67,7 +66,7 @@
 <a href="https://www.instagram.com/its.aamyth/"><img src="https://github.com/itsaamyth/itsaamyth/blob/master/icons/instagram.png" width="40" /></a>
 
 </details>
-<h2>Github stats :octocat:</h2>
+<h2>Github stats</h2>
 <img alt="Amit's github stats" width=500 src="https://github-readme-stats.vercel.app/api?username=itsaamyth&show_icons=true"/>
 <img alt="Top Langs" width=500  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,glsl&show=python"/>
 
