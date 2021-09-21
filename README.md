@@ -25,7 +25,9 @@
 <details>
 	<summary>Experience  👨‍💻</summary>
   <ul>
-    <li>Website Designing and Development at <a href="https://www.anurezapower.in/" >Anureza Power Projects Pvt.Ltd</a></li>
+    <li>Website Designing and Development at <a href="https://www.duetpower.in/" >Duet Power</a></li>
+    <li>Website Designing and Development at <a href="https://froshlink.in/" >Duet Power</a></li>
+    <li>Website Designing and Development at <a href="http://amsquaretechnology.co.in/" >Amsquare Technology</a></li>
     <li>NodeJs Website Backend Development at <a href="https://codingblocks.com/">Coding Blocks</a></li>
     <li>Python Development at <a href="https://codingblocks.com/">Coding Blocks</a></li>
      </ul>
